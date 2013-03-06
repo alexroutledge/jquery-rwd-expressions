@@ -1,5 +1,5 @@
 $.extend($.expr[':'], {
-  "below-the-fold": function (a) {
+  	"below-the-fold": function (a) {
 		return $(window).height() + $(window).scrollTop() <= $(a).offset().top;
 	},
 	"above-the-top": function (a) {
