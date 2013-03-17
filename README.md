@@ -1,7 +1,7 @@
-jquery-rwd-expressions
+JQuery Expressions for Responsive Web Design
 ======================
 
-jQuery expressions for responsive design
+jQuery expressions or Responsive Web Design is a jQuery plugin intended to aid responsive web design practices.
 
 $.extend($.expr[':'], {
   "below-the-fold": function (a) {
