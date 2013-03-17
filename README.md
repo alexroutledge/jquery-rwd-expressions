@@ -1,7 +1,7 @@
 JQuery Expressions for Responsive Web Design
 ======================
 
-jQuery expressions or Responsive Web Design is a jQuery plugin intended to aid responsive web design practices.
+jQuery expressions or Responsive Web Design is a jQuery plugin intended to aid responsive web design practices. Specifically, the plugin enables he user to identify page elements that re nside or outside e user's current iewport.
 
 $.extend($.expr[':'], {
   "below-the-fold": function (a) {
