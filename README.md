@@ -11,4 +11,4 @@ This might included loading products as a user scrolls on a category listings or
 
 -Performing DOM manipulations on elements currently in the user's viewport
 
-This may include adding JS-based animations or event driven functions.
+This may include adding JS-based animations or event based functions.
