@@ -6,6 +6,7 @@ jQuery expressions or Responsive Web Design is a jQuery plugin intended to aid r
 Some example use cases are:
 
 -Lazy loading content based on a user's scrolling activity
+
 This might included loading products as a user scrolls on a category listings or search results page.
 
 -Performing DOM manipulations on elements currently in the user's viewport
