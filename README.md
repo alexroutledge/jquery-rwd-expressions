@@ -12,3 +12,5 @@ This might included loading products as a user scrolls on a category listings or
 -Performing DOM manipulations on elements currently in the user's viewport
 
 This may include adding JS-based animations or event based functions.
+
+Please see the example page at <a href="https://github.com/alexroutledge/jquery-rwd-expressions/blob/master/index.html">page</a> for more info.
